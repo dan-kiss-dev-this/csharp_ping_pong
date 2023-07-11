@@ -1,7 +1,7 @@
 Make a Ping Pong Program:
 
 go to PingPong folder and run to install needed code
-$ dotnet response
+$ dotnet restore
 
 to run
 $dotnet run
